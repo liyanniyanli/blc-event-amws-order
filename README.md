@@ -5,9 +5,9 @@ This modules use [spring-integration-kaka](https://github.com/spring-projects/sp
 
 There is a high-level project which is integrated with [Spring Cloud Stream](https://github.com/spring-cloud/spring-cloud-stream).  
 Reference:   
-1. [RactiveSW](https://github.com/reactivesw)
-2. [RactiveSW: AMWS-Product](https://github.com/reactivesw/amws_product)
-3. [RactiveSW: AMWS-Order](https://github.com/reactivesw/amws_order)
+1. [RactiveSW](https://github.com/reactivesw)  
+2. [RactiveSW: AMWS-Product](https://github.com/reactivesw/amws_product)  
+3. [RactiveSW: AMWS-Order](https://github.com/reactivesw/amws_order)  
 
 ## Step to enable extended entities
 
